@@ -1,0 +1,1 @@
+select * into testselect * from ejejje
