@@ -1,1 +1,5 @@
-select * into testselect * from ejejje
+select * into test
+
+select * from ejejje
+
+if 'i have' to 'leave'
