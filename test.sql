@@ -1,1 +1,1 @@
-select * into test
+select * into test--test pertama
