@@ -1,1 +1,3 @@
-select * into test--test pertama
+select * into test
+
+--test pertama repository
