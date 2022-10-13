@@ -5,3 +5,4 @@ select * into test
 --test ketiga repository
 --test keempat repository
 --test kelima repository (10 october 2022 2:59 PM)
+--test keenam repository (13/10/2022)
