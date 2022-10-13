@@ -7,3 +7,4 @@ select * into test
 --test kelima repository (10 october 2022 2:59 PM)
 --test keenam repository (13/10/2022)
 --test ketujuh repository (13/10/2022)
+--test kedelapan repository (13/10/2022)
